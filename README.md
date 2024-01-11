@@ -25,16 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahinyakici&show_icons=true&theme=tokyonight&locale=en" alt="sahinyakici" /></p>
 
- <br />
- 
-  <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/sahinyakici/sahinyakici/blob/main/img/Bird%20Wing%20Left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahinyakici&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="sahinyakici" />
-    <img heigth="160" width="182" src="https://github.com/sahinyakici/sahinyakici/blob/main/img/Bird%20Wing%20Right.png">
-  </a>
-</p>
-
   
 <br />
 
