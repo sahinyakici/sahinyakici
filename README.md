@@ -37,13 +37,7 @@
     <img heigth="160" width="182" src="https://github.com/sahinyakici/sahinyakici/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
- 
-
- 
  <br />
- 
-  
-  
   <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/sahinyakici/sahinyakici/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
@@ -51,30 +45,8 @@
     <img heigth="160" width="182" src="https://github.com/sahinyakici/sahinyakici/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   </a>
 </p>
- 
-  
-  
- <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahinyakici&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/sahinyakici/github-readme-stats)
--->
-
-
 <br />
-
 ![](https://github-profile-trophy.vercel.app/?username=sahinyakici&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-
 <br />
-
-
 <br />
-
-
-<!--
-</details>
--->
-
-<!--
-<details>
-   <summary>:zap: Languages and Tools</summary>
- -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/sahinyakici?theme=dark&font=Port%20Lligat%20Sans&ext=activity)
