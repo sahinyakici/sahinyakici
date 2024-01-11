@@ -47,6 +47,5 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sahinyakici?theme=dark&font=Tomorrow)
 <br />
 
-
-<br />
 ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+<br />
