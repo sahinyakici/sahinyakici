@@ -45,7 +45,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=sahinyakici&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sahinyakici?theme=dark&font=Tomorrow)
-<br />
-
 ![snake gif](https://github.com/sahinyakici/sahinyakici/blob/output/github-contribution-grid-snake.gif)
+<br />
 <br />
