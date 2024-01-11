@@ -24,12 +24,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahinyakici&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sahinyakici" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahinyakici&show_icons=true&theme=tokyonight&locale=en" alt="sahinyakici" /></p>
-
-  
 <br />
-
-
- 
  <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/sahinyakici/sahinyakici/blob/main/img/Bird%20Wing%20Left.png">
@@ -37,6 +32,7 @@
     <img heigth="160" width="182" src="https://github.com/sahinyakici/sahinyakici/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
+
  <br />
   <p align="center">
   <a>
@@ -46,7 +42,11 @@
   </a>
 </p>
 <br />
+
 ![](https://github-profile-trophy.vercel.app/?username=sahinyakici&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+
 <br />
+
+
 <br />
-![LeetCode Stats](https://leetcard.jacoblin.cool/sahinyakici?theme=dark&font=Port%20Lligat%20Sans&ext=activity)
