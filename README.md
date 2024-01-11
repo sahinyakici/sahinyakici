@@ -1,4 +1,3 @@
-![MasterHead]()
 ![](https://komarev.com/ghpvc/?username=sahinyakici&color=blue)
 <div align="center">
  <a href="https://github.com/sahinyakici">
