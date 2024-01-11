@@ -44,7 +44,7 @@
 <br />
 
 ![](https://github-profile-trophy.vercel.app/?username=sahinyakici&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/sahinyakici?theme=dark&font=Port%20Lligat%20Sans&ext=activity)
 
 <br />
 
